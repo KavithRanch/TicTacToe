@@ -1,2 +1,3 @@
 # TicTacToe
-3D TicTacToe using a decision-tree based AI model (Depth-limited Minimax)
+2D & 3D TicTacToe against a decision-tree based AI model
+(Depth-limited Minimax)
